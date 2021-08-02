@@ -1,4 +1,4 @@
-# 🎵TM Music-V1🎵
+# TM Music-V1
 
 # How To Host
 The easiest way to deploy this Bot
