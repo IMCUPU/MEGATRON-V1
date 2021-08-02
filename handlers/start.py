@@ -52,7 +52,7 @@ Ketik » /help « Untuk Melihat Daftar Perintah!
                          "🤖 Assistant", url=f"https://t.me/{ASSISTANT_NAME}"
                     ),
                     InlineKeyboardButton(
-                        "🛠 Repo", url="https://github.com/tofikdn/TDMusicBot"
+                        "🛠 Repo", url="https://github.com/IMCUPU/TM Music-V1"
                     )
                 ]
             ]
